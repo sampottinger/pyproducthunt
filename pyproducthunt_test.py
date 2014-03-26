@@ -1,3 +1,10 @@
+"""Sanity checks for product hunt.
+
+@author: Sam Pottinger (samnsparky)
+@license: GNU GPL v3
+"""
+
+
 import os
 import unittest
 
